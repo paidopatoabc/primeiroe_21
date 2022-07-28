@@ -1,8 +1,15 @@
 body{
-  background: black;
+  background: violet;
 
 
 }
 h1{
   text-align: center;
+}
+.caixa1 {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background: purple;
+  left:50px;
 }
