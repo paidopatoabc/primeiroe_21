@@ -1,15 +1,26 @@
 body{
-  background: violet;
+  background: rebeccapurple;
 
 
 }
 h1{
   text-align: center;
-}
+
+/*
+  position: absolute;
+  position: fixed;
+  position: sticky;
+*/
 .caixa1 {
   position: relative;
   width: 200px;
   height: 200px;
-  background: purple;
+  background: violet;
   left:50px;
 }
+.menuPrincipal {
+  position: absolute;
+  background: palevioletred;
+  width: 100%;
+  height: 100px;
+  top: 0;
